@@ -1,9 +1,22 @@
 
 ✨ tech list
+
+
 react
+
+
 css
+
+
 html
+
+
 react-transition-group
+
+
+
+
+
 
 ✔ simple dynamic drop-down menu 
 
